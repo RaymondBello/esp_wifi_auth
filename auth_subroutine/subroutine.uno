@@ -45,3 +45,7 @@ void setup() {
   Serial.println(WiFi.localIP()); 
 
 }
+
+void loop() {
+    // Your repeated code here!
+}
